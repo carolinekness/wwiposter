@@ -1,6 +1,6 @@
 ---
 page: The Source
-title: WWI poster
+title: wwiposter
 media_type: image
 
 _title: Hold Up Your End!
