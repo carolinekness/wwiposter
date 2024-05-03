@@ -1,5 +1,5 @@
 ---
-page: Source
+page: The Source
 title: WWI poster
 media_type: image
 
