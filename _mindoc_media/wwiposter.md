@@ -4,9 +4,9 @@ title: wwiposter
 media_type: image
 
 _title: WWI poster
-description: Main page photo
-creator: Unknown
-_date: Unknown
+description: A war fundraising poster from the United States during WWI.
+creator: American Red Cross
+_date: 1918
 rights: 
 type: 
 source:
